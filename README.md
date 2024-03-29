@@ -1,4 +1,10 @@
 IIT Delhi TRYST-2024 : Hack-4-Purpose
+Team Name : InevitableCoderz
+Team Members
+Monish Kuamr - TRC9871783
+Durga Nivi Bala - TRC8751798
+
+
 
 We developed a AI Based Recommendation app to suggest dating plans to couples.
 We also developed a chatbot to provide relationship advices based on the query or issue by the user.
